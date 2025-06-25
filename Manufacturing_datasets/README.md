@@ -90,15 +90,5 @@ The dataset contains detailed records of each job, including:
 - Machines are equally likely to experience job delays
 - No correlation between processing time and energy, suggesting other factors are at play
 
----
 
-## 🚀 Next Steps (Optional)
-
-- Predictive modeling (regression/classification)
-- Energy optimization suggestions
-- Build Power BI or Excel dashboard for real-time insights
-
----
-
-## 📁 Folder Structure
 
